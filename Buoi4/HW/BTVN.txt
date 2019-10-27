@@ -1,0 +1,7 @@
+Bài 1:
+- Nhập vào 1 xâu s và 1 kí tự c, in ra số lần c xuất hiện trong số.
+Ví dụ : s = 'thành phố', c='h' --> số lần : 3
+
+Bài 2:
+- Nhập vào 2 xâu s1, s2, in ra vị trí i đầu tiên mà s1[i] và s2[i] khác nhau.
+Ví dụ : s1 = 'Hà Nội', s2 = 'Hà Nam' --> i = 4
