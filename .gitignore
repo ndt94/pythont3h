@@ -132,5 +132,6 @@ dmypy.json
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
 .history
+.DS_Store
 
 # End of https://www.gitignore.io/api/linux,python,visualstudiocode
