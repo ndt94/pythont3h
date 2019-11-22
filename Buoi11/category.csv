@@ -1,0 +1,1038 @@
+id;parent_id;name
+1;0;All
+2;1;Saleable
+3;1117;Loyalty
+71;1;Chăm sóc sức khỏe
+72;1;Đồ cho bé - mẹ
+73;1;Đồ gia dụng
+74;1;Đồ thiết bị gia đình
+75;1;Mỹ phẩm
+76;1;Nhóm chứa SP không dùng
+77;1;Nhóm Hệ thống
+78;1;Thời Trang
+79;1;Thực phẩm
+80;1;Văn phòng phẩm - Sách - Đồ chơi
+128;71;  Các SP chăm sóc khác
+129;71;  Thực phẩm chức năng
+130;72;  Bỉm
+131;72;  Bình sữa - núm ty
+132;72;  Chăm sóc da- tóc
+133;72;  Đồ an toàn
+134;72;  Đồ dùng phục vụ ăn uống
+135;72;  Đồ dùng vệ sinh tẩy giặt rửa
+136;72;  Đồ sơ sinh
+137;72;  Chăm sóc sức khỏe
+138;72;  Giấy ướt
+139;72;  Phụ kiện khác
+140;72;  Sữa
+141;73;  Diệt côn trùng
+142;73;  Đồ dùng nhà bếp
+143;73;  Đồ dùng nhà tắm
+144;73;  Đồ tiện ích khác
+145;73;  Khăn giấy BVS các loại
+146;73;  Tẩy rửa vệ sinh khử mùi
+147;74;  Đồ điện thiết bị gia đình
+148;74;  Thiết bị điện và phụ kiện khác
+149;75;  Các loại mỹ phẩm phụ kiện khác
+150;75;  Chăm sóc Da
+151;75;  Chăm sóc tóc
+152;78;  Đồ lót
+153;78;  Phụ kiện thời trang
+154;78;  Thời trang nam mùa đông
+155;78;  Thời trang nam mùa hè
+156;78;  Thời trang nữ mùa đông
+157;78;  Thời trang nữ mùa hè
+158;78;  Thời trang trẻ em mùa đông
+159;78;  Thời trang trẻ em mùa hè
+160;79;  Bánh kẹo
+161;79;  Đồ ăn dặm cho bé
+162;79;  Đồ ăn vặt
+163;79;  Đồ hộp
+164;79;  Đồ khô
+165;79;  Đồ uống cho bé
+166;79;  Đồ uống đồ giải khát
+167;79;  Gia vị các loại
+168;79;  Hoa quả
+169;79;  Sữa - các thực phẩm từ sữa
+170;80;  Đồ chơi thông minh
+171;80;  Đồ chơi vận động
+172;80;  Đồ dùng học tập
+173;80;  Đồ dùng văn phòng
+174;80;  Sách
+175;0;Giảm giá
+176;0;Voucher
+177;75; Mỹ phẩm Cosmeria
+178;0;Tất cả 2
+319;178;Chăm sóc sức khỏe
+320;178;Đồ cho bé mẹ
+321;178;Nhà cửa Đời sống
+322;178;Sức khỏe sắc đẹp
+323;178;Thời trang
+324;178;Thực phẩm
+325;3653;Hệ Thống
+1105;319;SP massage giảm đau
+1106;320;Bé ăn
+1107;321;Đồ điện gia dụng
+1108;319;Các loại thuốc thông dụng
+1109;324;Thực phẩm ăn liền
+1110;321;Nội thất trang trí nhà cửa
+1111;322;Dưỡng da
+1112;321;Phòng tắm Vệ sinh
+1113;324;Thực phẩm từ sữa
+1114;320;Bé sơ sinh
+1115;324;Bánh kẹo đồ ăn vặt
+1116;319;SP chăm sóc khác
+1117;325;Voucher - Coupon
+1118;319;Thực phẩm chức năng
+1119;320;Bé khoẻ
+1120;323;Thời trang nam
+1121;319;Hỗ trợ tình dục
+1122;323;Đồ bơi
+1123;321;SP chăm sóc quần áo
+1124;319;SP đặc trị cho da
+1125;322;Trang điểm
+1126;324;Dầu ăn gia vị nấu nướng
+1127;324;Thực phẩm đóng hộp
+1128;325;Mã dịch vụ
+1129;321;Vật dụng khác
+1130;319;Dụng cụ y tế
+1131;324;Đồ uống
+1132;321;Bếp Phòng ăn
+1133;320;Bé vận động
+1134;324;Set quà tặng
+1135;319;Chăm sóc tai
+1136;322;Dưỡng tóc
+1137;323;Thời trang trẻ em
+1138;320;Đồ cho mẹ
+1139;320;Bé vệ sinh
+1140;319;Miếng dán đắp
+1141;320;Bé vui học
+1142;322;Cosmeria
+1143;323;Thời trang nữ
+1144;324;Thực phẩm khô
+1145;319;Vệ sinh phụ nữ
+1146;324;Hoa quả
+1147;321;SP tẩy rửa vệ sinh khử mùi
+1148;321;Ngoài trời sân vườn
+1149;322;Dụng cụ làm đẹp
+1150;319;Chăm sóc răng miệng
+1151;322;Dưỡng thể
+1518;1105;Gel giảm đau
+1519;1105;Kem massage
+1520;1105;Lăn massage
+1521;1105;Xịt giảm đau
+1522;1106;Bát đũa khay ăn
+1523;1106;Bình sữa núm ty
+1524;1106;Cốc bình tập uống
+1525;1106;Dụng cụ dung dịch vệ sinh bình sữa
+1526;1106;Ghế ăn
+1527;1106;Phụ kiện bình sữa núm ty
+1528;4203;Sữa bột
+1529;1106;Ty ngậm
+1530;1106;Yếm ăn
+1531;1107;Biến áp
+1532;1107;Đồ điện khác
+1533;1107;Máy hút bụi lau nhà
+1534;1107;Máy tạo ẩm phun sương
+1535;1107;Phụ kiện đồ điện
+1536;1107;Quạt máy nóng lạnh
+1537;1107;Tủ lạnh
+1538;1108;Thuốc cảm cúm
+1539;1108;Thuốc chống say xe
+1540;1108;Thuốc nhỏ mắt
+1541;1108;Thuốc nhỏ mũi
+1542;1108;Viên uống giảm đau
+1543;1109;Canh súp
+1544;1109;Cháo ăn dặm cho bé
+1545;1109;Mỳ ăn liền
+1546;1109;Ngũ cốc
+1547;1109;Thực phẩm ăm dặm khác
+1548;1110;Bình chén chum rượu
+1549;1110;Chiếu
+1550;1110;Đèn
+1551;1110;Đồng hồ trang trí
+1552;1110;Dụng cụ thi công
+1553;1110;Gà mèo trang trí
+1554;1110;Ghế
+1555;1110;Giá để giày
+1556;1110;Giấy dán tường
+1557;1110;Hộp giá đựng đồ
+1558;1110;Khăn trải bàn
+1559;1110;Khay để đồ
+1560;1110;Mèo gà trang trí
+1561;1110;Thảm
+1562;1110;Thùng rác phụ kiện
+1563;1110;Túi đựng quà
+1564;1110;Ghế thư giãn
+1565;1111;Kem chống nắng
+1566;1111;Kem dưỡng
+1567;1111;Mặt nạ cho mặt
+1568;1111;Mặt nạ mắt
+1569;1111;Mặt nạ môi
+1570;1111;Miếng lột mụn cám mũi
+1571;1111;Nước hoa hồng
+1572;1111;Set dưỡng da
+1573;1111;Son dưỡng
+1574;1111;Sữa rửa mặt
+1575;1111;Tẩy da chết
+1576;1111;Tinh chất dưỡng da
+1577;1111;Xịt khoáng
+1578;1112;Dụng cụ nhà tắm
+1579;1112;Giấy vệ sinh phụ kiện
+1580;1112;Hộp giá đựng đồ nhà tắm
+1581;1112;Khăn mặt khăn tắm
+1582;1112;Vòi hoa sen
+1583;1113;Phô mai
+1584;1113;Sữa chua
+1585;1114;Bao tay
+1586;1114;Giầy sơ sinh
+1587;1114;Khăn quấn bụng
+1588;1114;Phụ kiện cho trẻ sơ sinh
+1589;1114;Quần áo sơ sinh
+1590;1114;Tất sơ sinh
+1591;1115;Bánh ăn dặm
+1592;1115;Bánh cá
+1593;1115;Bánh Dorayaki mochi
+1594;1115;Bánh gạo
+1595;1115;Bánh kem xốp
+1596;1115;Bánh ốc quế
+1597;1115;Bánh quy
+1598;1115;Chocolate
+1599;1115;Đồ ăn vặt
+1600;1115;Hạt
+1601;1115;Hoa quả khô mứt
+1602;1115;Kẹo cứng
+1603;1115;Kẹo cao su
+1604;1115;Kẹo ngậm
+1605;1115;Nama Chocolate
+1606;1115;Thạch
+1607;1115;Bánh kem
+1608;1115;Bánh nướng bánh dày
+1609;1115;Sakura Bakery
+1610;1115;Snack
+1611;1116;Băng dính vết thương
+1612;4203;Bỉm người lớn
+1613;1116;Cân điện tử
+1614;1116;Gel giữ ấm
+1615;1116;Gel hạ sốt
+1616;1116;Hộp cứu thương
+1617;1116;Khăn làm mát
+1618;1116;Khẩu trang
+1619;1116;Vòng huyết áp
+1620;1116;Xịt khuẩn khẩu trang
+1621;1116;Xịt làm mát
+1622;1117;Voucher
+1623;1118;Bổ sung canxi
+1624;1118;Bổ sung DHA
+1625;1118;Bổ sung Glucosamin
+1626;1118;Bổ sung vitamin
+1627;1118;Chống lão hóa
+1628;1118;Collagen
+1629;1118;Điều hoà Cholesterol
+1630;1118;Giảm mỡ
+1631;1118;Hỗ trợ bà bầu
+1632;1118;Hỗ trợ điều trị ung thư
+1633;1118;Hỗ trợ sinh lí nam
+1634;1118;Hỗ trợ sinh lí nữ
+1635;1118;Hỗ trợ tiêu hoá
+1636;1118;Làm đẹp da
+1637;1118;Nở ngực
+1638;1118;Ổn định huyết áp
+1639;1118;Sữa ong chúa
+1640;1118;Sụn vi cá mập
+1641;1118;Tảo
+1642;1118;Thải độc
+1643;1118;Thực phẩm bổ sung sau sinh
+1644;1118;Tỏi đen
+1645;1118;TPCN khác
+1646;1119;Chăm sóc giấc ngủ
+1647;1119;Chăm sóc răng miệng cho bé
+1648;1119;Chống muỗi côn trùng
+1649;1119;Dược phẩm cho bé
+1650;1119;Gặm nướu
+1651;1120;Áo khoác nam
+1652;1120;Áo phông nam
+1653;1120;HEATTECH nam
+1654;1120;Phụ kiện cho nam
+1655;1120;Quần nam
+1656;1120;Sịp đùi nam
+1657;1120;Sịp nam
+1658;1121;Bao cao su
+1659;1122;Kính bơi
+1660;1122;Mũ bơi
+1661;1122;Phao bơi
+1662;1122;Quần bơi
+1663;1123;Giỏ đựng quần áo
+1664;1123;Là quần áo
+1665;1123;Lăn làm sạch quần áo
+1666;1123;Phơi treo quần áo
+1667;1123;Tẩy vết bẩn quần áo
+1668;1123;Túi giặt
+1669;1123;Xịt làm mát quần áo
+1670;1124;SP trị mẩn ngứa
+1671;1124;Trị khô da
+1672;1124;Trị nứt gót
+1673;1125;Bông tẩy trang
+1674;1125;Giấy ướt tẩy trang
+1675;1125;Kem nền phấn phủ
+1676;1125;Tẩy trang dạng dầu
+1677;1125;Tẩy trang dạng gel
+1678;1125;Tẩy trang dạng nước
+1679;1125;Trang điểm mắt môi
+1680;1126;Dầu ăn
+1681;1126;Dầu mè
+1682;1126;Gia vị làm sẵn
+1683;1126;Gia vị nấu ăn khác
+1684;1126;Gia vị rắc cơm
+1685;1126;Hạt nêm
+1686;1126;Hạt tiêu
+1687;1126;Mì chính
+1688;1126;Nước dùng
+1689;1126;Nước sốt
+1690;1126;Rượu ngọt
+1691;1126;Tương
+1692;1126;Wasabi mù tạt
+1693;1126;Xì dầu
+1694;1127;Bò hộp
+1695;1127;Cá hộp
+1696;1127;Dưa chuột củ cải muối
+1697;1127;Gà hộp ruốc gà
+1698;1127;Hải sản đóng hộp
+1699;1127;Heo đóng hộp
+1700;1127;Hoa quả hộp
+1701;1128;Vận chuyển
+1702;1129;Áo mưa
+1703;1129;Bao lì xì
+1704;1129;Bịt góc bàn ghế
+1705;1129;Bọc bảo vệ
+1706;1129;Bọc gối đệm
+1707;1129;Cắt băng dính
+1708;1129;Cắt tóc
+1709;1129;Chậu trồng cây
+1710;1129;Chống trượt giày
+1711;1129;Đèn pin
+1712;1129;Dép đi trong nhà
+1713;1129;Dụng cụ may vá
+1714;1129;Dụng cụ thể dục
+1715;1129;Găng tay
+1716;1129;Gạt tàn
+1717;1129;Khoá
+1718;1129;Khử mùi tủ giày
+1719;1129;Lót giày
+1720;1129;Móc chìa khoá
+1721;1129;Móc treo
+1722;1129;Ô
+1723;1129;Phụ kiện ô tô
+1724;1129;Sạc
+1725;1129;Thiệp
+1726;1129;Túi đựng
+1727;1129;Xi đánh giày
+1728;1129;Xịt làm mát giày dép
+1729;1129;Vật dụng khác chưa rõ tên
+1730;1130;Máy đo huyết áp
+1731;1130;Nhiệt kế
+1732;1130;Nước rửa mũi
+1733;1130;Sát trùng vết thương
+1734;1130;Xịt bỏng
+1735;1131;Bột pha chế thức uống
+1736;1131;Cà phê
+1737;1131;Nước giải khát
+1738;1131;Nước hoa quả
+1739;1131;Nước ngọt có ga
+1740;1131;Nước nhoa quả
+1741;1131;Rượu
+1742;1131;Sữa
+1743;1131;Thức uống dinh dưỡng
+1744;1131;Trà đóng chai
+1745;1131;Trà túi lọc
+1746;1132;Ấm nước
+1747;1132;Ấm trà
+1748;1132;Bát
+1749;1132;Bếp từ bếp nướng
+1750;1132;Bình lọc
+1751;1132;Bình nước
+1752;1132;Bình tạo bọt
+1753;1132;Bình hộp túi giữ nhiệt
+1754;1132;Bột rửa rau củ
+1755;1132;Cốc
+1756;1132;Dao dụng cụ cắt gọt tỉa
+1757;1132;Đĩa
+1758;1132;Đũa
+1759;1132;Dụng cụ cọ rửa
+1760;1132;Dụng cụ nhà bếp
+1761;1132;Giấy ăn
+1762;1132;Hộp đựng thức ăn
+1763;1132;Khăn lau
+1764;1132;Lò vi sóng
+1765;1132;Màng bọc TP
+1766;1132;Máy pha cà phê
+1767;1132;Máy rửa sấy bát
+1768;1132;Máy xay
+1769;1132;Nồi áp suất
+1770;1132;Nồi cơm điện
+1771;1132;Nồi ủ
+1772;1132;Nồi chảo
+1773;1132;Nước rửa tay
+1774;1132;Thìa dĩa
+1775;1132;Túi đựng thực phẩm
+1776;1132;Vật dụng đựng đồ nhà bếp
+1777;1133;Địu xe đẩy
+1778;1133;Đồ chơi thông minh
+1779;1133;Đồ chơi vận động
+1780;1133;Mũ bảo hiểm
+1781;1134;Giỏ quà tết
+1782;1134;Túi hộp
+1783;1135;Dụng cụ ngoáy tai
+1784;1135;Tăm bông
+1785;1136;Dầu gội dầu xả
+1786;1136;Gel vuốt tóc
+1787;1136;Máy sấy uốn tóc
+1788;1136;Thuốc nhuộm tóc
+1789;1136;Tinh chất dưỡng tóc
+1790;1137;Áo chống nắng trẻ em
+1791;1137;Áo khoác trẻ em
+1792;1137;Áo nỉ trẻ em
+1793;1137;Áo phông ba lỗ trẻ em
+1794;1137;Đồ lót trẻ em
+1795;1137;HEATTECH trẻ em
+1796;1137;Phụ kiện trẻ em
+1797;1137;Quần trẻ em
+1798;1137;Set đồ trẻ em
+1799;1137;IZUN
+1800;1138;Kem chống rạn
+1801;1138;Máy hút sữa
+1802;1138;Quần nâng bụng bầu
+1803;1138;Sách nuôi dạy con cái
+1804;4203;Bỉm
+1805;1139;Dầu gội sữa tắm
+1806;4203;Giấy ướt cho bé
+1807;1139;Khăn sữa khăn xô
+1808;1139;Nước giặt tẩy rửa cho bé
+1809;1139;Phấn rôm kem nẻ kem dưỡng
+1810;1139;Phụ kiện tắm
+1811;1139;Phụ kiện vệ sinh cho bé
+1812;1139;Vệ sinh răng miệng
+1813;1139;Dụng cụ vệ sinh cho bé
+1814;1140;Miếng dán ấm
+1815;1140;Miếng dán giảm đau mỏi
+1816;1140;Miếng dán hạ sốt
+1817;1140;Miếng dán thải độc
+1818;1141;Bàn học
+1819;1141;Cặp chống gù lưng
+1820;1141;Đồ dùng học tập
+1821;1141;Sách cho bé
+1822;1142;Sản phẩm Cosmeria
+1823;1143;Áo chống nắng nữ
+1824;1143;Áo khoác nữ
+1825;1143;Áo lót nữ
+1826;1143;Áo nỉ nữ
+1827;1143;Áo phông nữ
+1828;1143;Áo sơ mi nữ
+1829;1143;HEATTECH nữ
+1830;1143;Phụ kiện cho nữ
+1831;1143;Quần lót nữ
+1832;1143;Quần nữ
+1833;1143;Set đồ lót nữ
+1834;1143;Set đồ nữ
+1835;1143;Tất nữ
+1836;1143;Áo len tăm nữ
+1837;1144;Bột chiên bột làm bánh
+1838;1144;Cá bào
+1839;1144;Gạo miến
+1840;1144;Hành tỏi gừng
+1841;1144;Nui mỳ ống
+1842;1144;Rong biển tảo bẹ
+1843;1144;Trứng gà
+1844;1145;Băng vệ sinh
+1845;1145;Dung dịch vệ sinh phụ nữ
+1846;1146;Dâu tây
+1847;1146;Táo
+1848;1147;Chổi
+1849;1147;Dụng cụ lau nhà
+1850;1147;Khử mùi
+1851;1147;Nước rửa bát
+1852;1147;Nước viên bột giặt xả
+1853;1147;Nước xịt bột tẩy rửa
+1854;1147;Sáp túi xịt thơm
+1855;1147;Vệ sinh bếp
+1856;1147;Vệ sinh bồn cầu
+1857;1147;Vệ sinh đường ống
+1858;1147;Vệ sinh lồng giặt
+1859;1147;Viên sủi vệ sinh
+1860;1148;Diệt côn trùng
+1861;1148;Hồ bơi
+1862;1148;Xe đạp
+1863;1149;Bấm móng tay
+1864;1149;Dao cạo
+1865;1149;Dụng cụ làm đẹp khác
+1866;1149;Giấy thấm dầu
+1867;1149;Kem cạo râu
+1868;1149;Khăn giấy ướt
+1869;1149;Máy rửa mặt
+1870;1149;Nhíp
+1871;1150;Bàn chải
+1872;1150;Chỉ nha khoa
+1873;1150;Kem đánh răng
+1874;1150;Nước súc miệng
+1875;1150;Trị nhiệt miệng
+1876;1150;Xịt miệng
+1877;1151;Kem dưỡng da tay chân
+1878;1151;Kem xịt tẩy lông
+1879;1151;Lăn khử mùi
+1880;1151;Nước hoa
+1881;1151;Sữa dưỡng thể
+1882;1151;Sữa tắm
+1883;1151;Xịt khử mùi
+1884;1117;Discount
+1886;1132;Bình tạo bọt
+1887;1122;Chưa rõ tên nhóm
+1888;0;khan
+1889;178;Nhóm ko KM Thẻ TV
+1890;1;Hot Product
+3652;0;Các loại thuốc thông dụng
+3653;0;Tất cả 3
+4198;3653;Thực phẩm - New3
+4199;3653;Nhu yếu phẩm hàng ngày - New3
+4200;3653;Gia dụng - New3
+4201;3653;Chăm sóc sắc đẹp - New3
+4202;3653;Đồ cho mẹ bé - New3
+4203;3653;Sữa bột bỉm giấy ướt - New3
+4204;3653;Văn phòng phẩm - New3
+4205;3653;Chăm sóc sức khỏe - New3
+4206;3653;Thời trang - New3
+4207;3653;Ngành khác - New3
+4208;3653;Ngành đóng - New3
+4209;4198;Mỳ miến - New3
+4210;4198;Thực phẩm ăn liền - New3
+4211;4198;Nông lâm thủy sản - New3
+4212;4198;Ăn uống thưởng thức - New3
+4213;4198;Gia vị - New3
+4214;4198;Bánh kẹo - New3
+4215;4198;Đồ uống - New3
+4216;4198;Sản phẩm từ sữa - New3
+4217;4198;Thực phẩm khác - New3
+4218;4199;Xà phòng - New3
+4219;4199;Sản phẩm vệ sinh từ giấy - New3
+4220;4199;Giặt quần áo - New3
+4221;4199;Hóa phẩm nhà bếp - New3
+4222;4199;Hóa phẩm vệ sinh gia đình - New3
+4223;4199;Vệ sinh đánh bóng đồ gia dụng - New3
+4224;4199;Khử mùi - New3
+4225;4199;Phòng côn trùng chống ẩm - New3
+4226;4199;Diệt côn trùng - New3
+4227;4199;Gia dụng hàng ngày khác - New3
+4228;4200;Bọc thực phẩm - New3
+4229;4200;Dọn dẹp nhà cửa - New3
+4230;4200;Dụng cụ giặt phơi - New3
+4231;4200;Đồ nhà bếp - New3
+4232;4200;Phòng tắm toilet - New3
+4233;4200;Bàn ăn - New3
+4234;4200;Dụng cụ nấu ăn - New3
+4235;4200;Phòng khách - New3
+4236;4200;Đồ gia dụng khác - New3
+4237;4200;Hàng đồng giá - New3
+4238;4200;Khăn - New3
+4239;4201;Chăm sóc da - New3
+4240;4201;Trang điểm - New3
+4241;4201;Chăm sóc cơ thể - New3
+4242;4201;Hương thơm - New3
+4243;4201;Chăm sóc tóc - New3
+4244;4201;Trang điểm tóc - New3
+4245;4201;Nhuộm tóc - New3
+4246;4201;Dành cho nam - New3
+4247;4201;Phụ kiện - New3
+4248;4201;Cosmeria - New3
+4249;4201;Mỹ phẩm Oyama - New3
+4250;4201;Mỹ phẩm đồng giá - New3
+4251;4202;Thực phẩm cho bé - New3
+4252;4202;Bé uống sữa - New3
+4253;4202;Dụng cụ ăn - New3
+4254;4202;Chăm sóc cơ thể bé - New3
+4255;4202;Bé mặc - New3
+4256;4202;Mẹ bầu - New3
+4257;4202;Đồ chơi - New3
+4258;4202;Văn phòng phẩm cho bé - New3
+4259;4202;Đồ cho bé khác - New3
+4260;4203;Sữa bột - New3
+4261;4203;Bỉm - New3
+4262;4203;Giấy ướt - New3
+4263;4204;Bút - New3
+4264;4204;Đồ dùng văn phòng - New3
+4265;4204;Kẹp file tập trình kí - New3
+4266;4204;Giấy văn phòng - New3
+4267;4204;Giấy gia dụng - New3
+4268;4204;Liên quan đến giáo dục - New3
+4269;4204;Điện tử - New3
+4270;4204;VPP Khác - New3
+4271;4205;Chăm sóc răng miệng - New3
+4272;4205;Chăm sóc sức khỏe hàng ngày - New3
+4273;4205;Thực phẩm chức năng - New3
+4274;4205;Chăm sóc sức khỏe khác - New3
+4275;4206;UNIQLO - New3
+4276;4206;IZUN - New3
+4277;4206;LECIEN - New3
+4278;4206;GUNZE - New3
+4279;4206;REGART - New3
+4280;4206;Phụ kiện thời trang - New3
+4281;4206;Thời trang khác - New3
+4282;4207;Hàng khác chưa phân loại - New3
+4283;4208;Hàng ngừng kinh doanh - New3
+4284;4209;Mì túi - New3
+4285;4209;Mì gói - New3
+4286;4209;Mì cốc - New3
+4287;4209;Mì Pasta - New3
+4288;4209;Các loại mì khác - New3
+4289;4210;Rắc cơm - New3
+4290;4210;Canh Soup ăn liền - New3
+4291;4210;Cà ri thịt hầm - New3
+4292;4210;Sốt cho mỳ Ý - New3
+4293;4210;Cơm cháo ăn liền - New3
+4294;4210;Gia vị ăn liền - New3
+4295;4210;Thực phẩm ăn liền khác - New3
+4296;4211;Hải sản khô - New3
+4297;4211;Nông sản khô - New3
+4298;4211;Hải sản đóng hộp - New3
+4299;4211;Nông sản đóng hộp - New3
+4300;4211;Hoa quả đóng hộp - New3
+4301;4211;Nông lâm thủy sản khác - New3
+4302;4212;Cà phê - New3
+4303;4212;Cacao thức uống từ sữa - New3
+4304;4212;Trà mạn - New3
+4305;4212;Trà xanh trà lúa mạch - New3
+4306;4212;Trà Olong trà sức khỏe - New3
+4307;4212;Mứt mật ong - New3
+4308;4212;Ngũ cốc - New3
+4309;4212;Mochi Nhật - New3
+4310;4212;Sản phẩm thưởng thức khác - New3
+4311;4213;Shoyu (Nước tương) - New3
+4312;4213;Các loại sốt - New3
+4313;4213;Sốt cà chua Mayone  - New3
+4314;4213;Bột dashi mì chính bột ngọt - New3
+4315;4213;Dầu ăn - New3
+4316;4213;Nước sốt salad - New3
+4317;4213;Tương miso - New3
+4318;4213;Đường muối - New3
+4319;4213;Sốt thịt nướng sốt lẩu (Tare) - New3
+4320;4213;Gia vị nấu nướng - New3
+4321;4213;Súp nước dùng - New3
+4322;4213;Giấm Ponzu Mirin - New3
+4323;4213;Gia vị khác - New3
+4324;4214;Chocolate - New3
+4325;4214;Kẹo cao su - New3
+4326;4214;Kẹo - New3
+4327;4214;Snack - New3
+4328;4214;Bánh quy - New3
+4329;4214;Đồ nhắm - New3
+4330;4214;Hoa quả khô - New3
+4331;4214;Tráng miệng - New3
+4332;4214;Bánh gạo (Senbei) - New3
+4333;4214;Bánh kẹo cho trẻ em - New3
+4334;4214;Bánh Mochi - New3
+4335;4214;Thạch - New3
+4336;4214;Bánh kẹo khác - New3
+4337;4215;Wisky - New3
+4338;4215;Rượu Nhật (Sake) - New3
+4339;4215;Rượu chưng cất (Shochu) - New3
+4340;4215;Rượu mơ (Umeshu) - New3
+4341;4215;Rượu khác - New3
+4342;4215;Đồ uống có ga - New3
+4343;4215;Nước hoa quả - New3
+4344;4215;Trà cà phê đóng sẵn - New3
+4345;4215;Nước - New3
+4346;4215;Đồ uống khác - New3
+4347;4216;Phomai - New3
+4348;4216;Sữa chua - New3
+4349;4216;Sản phẩm khác từ sữa - New3
+4350;4217;Thực phẩm khác - New3
+4351;4218;Xà phòng bánh - New3
+4352;4218;Xà phòng rửa tay - New3
+4353;4218;Xà phòng tắm - New3
+4354;4218;Bột tắm - New3
+4355;4218;Xà phòng khác - New3
+4356;4219;Giấy ăn - New3
+4357;4219;Khăn giấy lau tay - New3
+4358;4219;Giấy ướt - New3
+4359;4219;Giấy vệ sinh - New3
+4360;4219;Băng vệ sinh - New3
+4361;4219;Sản phẩm khác - New3
+4362;4220;Xà phòng giặt - New3
+4363;4220;Tẩy trắng - New3
+4364;4220;Nước xả vải - New3
+4365;4220;Sản phẩm giặt tẩy khác - New3
+4366;4221;Dung dịch vệ sinh nhà bếp - New3
+4367;4221;Dung dịch tẩy rửa nhà bếp - New3
+4368;4221;Dung dịch tẩy rửa vết dầu - New3
+4369;4221;Khử mùi diệt khuẩn nhà bếp - New3
+4370;4221;Vệ sinh nhà bếp khác - New3
+4371;4222;Tẩy rửa phòng - New3
+4372;4222;Tẩy rửa toilet - New3
+4373;4222;Tẩy rửa phòng tắm - New3
+4374;4222;Tẩy rửa vật thủy tinh - New3
+4375;4222;Sản phẩm tẩy rửa khác - New3
+4376;4223;Đánh bóng đồ gia dụng - New3
+4377;4223;Xi đánh giầy túi - New3
+4378;4223;Sản phẩm vệ sinh đánh bóng khác - New3
+4379;4224;Khử mùi toilet - New3
+4380;4224;Khử mùi trong phòng - New3
+4381;4224;Khử mùi khác - New3
+4382;4225;Phòng côn trùng - New3
+4383;4225;Chống ẩm - New3
+4384;4225;Phòng côn trùng khác - New3
+4385;4226;Diệt côn trùng - New3
+4386;4226;Chống muỗi - New3
+4387;4226;Diệt gián - New3
+4388;4226;Diệt chuột - New3
+4389;4226;Diệt côn trùng khác - New3
+4390;4227;Gia dụng hàng ngày khác - New3
+4391;4228;Bọc thực phẩm - New3
+4392;4229;Túi đựng rác - New3
+4393;4229;Dụng cụ dọn dẹp nhà cửa - New3
+4394;4230;Dụng cụ giặt giũ - New3
+4395;4230;Dụng cụ phơi đồ - New3
+4396;4231;Dụng cụ vệ sinh bếp - New3
+4397;4231;Vật dụng trong bếp - New3
+4398;4231;Phụ kiện bếp từ - New3
+4399;4232;Vật dụng nhà tắm - New3
+4400;4232;Đồ rửa mặt  - New3
+4401;4232;Đồ tắm - New3
+4402;4232;Vật dụng toilet - New3
+4403;4232;Phòng tắm toilet khác - New3
+4404;4233;Đựng gia vị - New3
+4405;4233;Vật dụng bàn ăn - New3
+4406;4233;Đũa dao dĩa thìa - New3
+4407;4233;Cốc - New3
+4408;4233;Đĩa bát - New3
+4409;4233;Phích - New3
+4410;4233;Đồ dùng 1 lần - New3
+4411;4233;Hộp cơm - New3
+4412;4233;Vật dụng bàn ăn khác - New3
+4413;4234;Nồi - New3
+4414;4234;Ấm - New3
+4415;4234;Chảo - New3
+4416;4234;Vật dụng đựng thức ăn - New3
+4417;4234;Dao - New3
+4418;4234;Dụng cụ nấu ăn khác - New3
+4419;4235;Thùng khay đựng - New3
+4420;4235;Vật dụng phòng khách - New3
+4421;4236;Hương nến bật lửa - New3
+4422;4236;Vật dụng cho hút thuốc - New3
+4423;4236;Vật dụng cho đóng gói hành lý - New3
+4424;4236;Găng tay trong nhà - New3
+4425;4236;Thiết bị thủ công - New3
+4426;4236;Liên quan giày dép - New3
+4427;4236;Vật dụng mưa - New3
+4428;4236;Gia dụng khác - New3
+4429;4236;Phụ kiện ô tô - New3
+4430;4237;Bé chơi - New3
+4431;4237;Ngoài trời sân vườn - New3
+4432;4237;Phụ kiện thời trang - New3
+4433;4237;Chăm sóc cá nhân - New3
+4434;4237;Trang điểm - New3
+4435;4237;Phòng tắm Vệ sinh - New3
+4436;4237;Khâu vá nữ công - New3
+4437;4237;Phụ kiện quà tặng - New3
+4438;4237;Dụng cụ thủ công - New3
+4439;4237;Nội thất trang trí nhà cửa - New3
+4440;4237;Dụng cụ văn phòng - New3
+4441;4237;Bếp Phòng ăn - New3
+4442;4237;Thời trang nam - New3
+4443;4237;Dụng cụ học tập - New3
+4444;4237;Làm vườn - New3
+4445;4237;Phụ kiện gia dụng - New3
+4446;4237;Hóa phẩm - New3
+4447;4237;Bé ăn - New3
+4448;4237;Bé vui học - New3
+4449;4237;Vật dụng khác - New3
+4450;4237;SP chăm sóc quần áo - New3
+4451;4238;Khăn tắm - New3
+4452;4238;Khăn mặt - New3
+4453;4239;Tẩy trang - New3
+4454;4239;Rửa mặt - New3
+4455;4239;Lotion - New3
+4456;4239;Sữa dưỡng - New3
+4457;4239;Essence - New3
+4458;4239;Mặt nạ cho da - New3
+4459;4239;Kem dưỡng da mặt - New3
+4460;4239;Chăm sóc da khác - New3
+4461;4240;Kem lót - New3
+4462;4240;Kem che khuyết điểm - New3
+4463;4240;Phấn nén - New3
+4464;4240;Phấn phủ - New3
+4465;4240;Phấn mắt - New3
+4466;4240;Chì kẻ mí mắt - New3
+4467;4240;Mascara - New3
+4468;4240;Chì kẻ mày - New3
+4469;4240;Phấn má - New3
+4470;4240;Màu môi - New3
+4471;4240;Màu móng - New3
+4472;4240;Sản phẩm trang điểm khác - New3
+4473;4241;Lotion kem dưỡng toàn thân - New3
+4474;4241;Kem dưỡng môi - New3
+4475;4241;Kem dưỡng da tay - New3
+4476;4241;Chống UV - New3
+4477;4241;Kem tẩy lông - New3
+4478;4241;Chăm sóc chân - New3
+4479;4241;Khử mùi giảm mồ hôi - New3
+4480;4241;Chăm sóc cơ thể khác - New3
+4481;4241;Sữa tắm - New3
+4482;4242;Nước hoa - New3
+4483;4242;Xịt tạo hương thơm - New3
+4484;4242;Sản phẩm tạo hương khác - New3
+4485;4243;Dầu gội - New3
+4486;4243;Dầu xả dưỡng tóc - New3
+4487;4243;Set dầu gội  - New3
+4488;4243;Chăm sóc tóc khác - New3
+4489;4244;Tạo kiểu giữ nếp tóc - New3
+4490;4244;Thuốc mọc tóc - New3
+4491;4244;Trang điểm tóc khác - New3
+4492;4245;Nhuộm tóc dạng kem - New3
+4493;4245;Nhuộm tóc dạng nước - New3
+4494;4245;Nhuộm tóc khác - New3
+4495;4246;Kem cạo râu - New3
+4496;4246;Chăm sóc da cho nam - New3
+4497;4246;Thuốc mọc tóc cho nam - New3
+4498;4246;Tạo kiểu giữ nếp tóc cho nam - New3
+4499;4246;Khử mùi giảm mồ hôi cho nam - New3
+4500;4246;Nước hoa nam giới - New3
+4501;4246;Chăm sóc cho nam khác - New3
+4502;4247;Dạo cạo - New3
+4503;4247;Phụ kiện tóc - New3
+4504;4247;Phụ kiện trang điểm mặt - New3
+4505;4247;Phụ kiện chăm sóc móng - New3
+4506;4247;Phụ kiện chăm sóc cơ thể - New3
+4507;4247;Phụ kiện khác - New3
+4508;4248;Chăm sóc da - New3
+4509;4248;Chăm sóc tóc - New3
+4510;4248;Chăm sóc khác - New3
+4511;4249;Kem nền - New3
+4512;4249;Phấn má - New3
+4513;4249;Che khuyết điểm - New3
+4514;4249;Lotion - New3
+4515;4249;Gel dưỡng ẩm - New3
+4516;4249;Chống nắng - New3
+4517;4249;Sữa tắm Baby - New3
+4518;4249;Kem dưỡng da - New3
+4519;4249;Dầu gội trẻ em - New3
+4520;4249;Dụng cụ rửa mặt - New3
+4521;4249;Phụ kiện chăm sóc tóc - New3
+4522;4249;Phụ kiện chăm sóc cơ thể - New3
+4523;4249;Chăm sóc chân - New3
+4524;4249;Dưỡng mí - New3
+4525;4249;Kẻ mí - New3
+4526;4249;Mascara - New3
+4527;4249;Lông mày - New3
+4528;4249;Dầu dưỡng tóc - New3
+4529;4249;Nước hoa - New3
+4530;4249;Dầu gội xả - New3
+4531;4249;Kem dưỡng tay - New3
+4532;4249;Rửa mặt - New3
+4533;4249;Mặt nạ - New3
+4534;4249;Tẩy trang - New3
+4535;4249;Kem dưỡng - New3
+4536;4249;Dưỡng môi - New3
+4537;4249;Sữa tắm - New3
+4538;4249;Phấn phủ - New3
+4539;4249;Sữa dưỡng - New3
+4540;4249;Lotion Baby - New3
+4541;4249;Răng miệng - New3
+4542;4249;Nước hoa thơm nhẹ - New3
+4543;4249;Lăn khử mùi - New3
+4544;4249;Chống côn trùng - New3
+4545;4249;Tẩy da chết - New3
+4546;4249;Hỗ trợ ăn kiêng - New3
+4547;4249;Vệ sinh phụ nữ - New3
+4548;4250;Trang điểm mắt - New3
+4549;4250;Trang điểm - New3
+4550;4250;Móng tay - New3
+4551;4250;Dụng cụ trang điểm - New3
+4552;4251;Mì mug - New3
+4553;4251;Bánh ăn dặm - New3
+4554;4251;Thực phẩm ăn dặm - New3
+4555;4251;Đồ uống cho bé - New3
+4556;4251;Rắc cơm - New3
+4557;4251;Thực phẩm cho bé khác - New3
+4558;4252;Bình sữa - New3
+4559;4252;Núm ti - New3
+4560;4252;Làm sạch khử trùng - New3
+4561;4252;Ti giả gặm nướu - New3
+4562;4252;Bé uống sữa khác - New3
+4563;4253;Dụng cụ nấu bảo quản đồ ăn - New3
+4564;4253;Thìa dĩa đũa - New3
+4565;4253;Set dụng cụ ăn - New3
+4566;4253;Bình cốc tập uống - New3
+4567;4253;Hỗ trợ uống bình hộp giấy - New3
+4568;4253;Yếm ăn - New3
+4569;4254;Xà phòng dầu gội - New3
+4570;4254;Phụ kiện tắm - New3
+4571;4254;Khăn các loại - New3
+4572;4254;Tăm bông - New3
+4573;4254;Lotion oil - New3
+4574;4254;Cắt móng tay chăm sóc tóc - New3
+4575;4254;Nhiệt kế hút mũi - New3
+4576;4254;Đồ vệ sinh y tế - New3
+4577;4254;Bàn chải đánh răng kem đánh răng - New3
+4578;4254;Phòng côn trùng chống UV - New3
+4579;4254;Giặt rửa - New3
+4580;4255;Tã lót - New3
+4581;4255;Quần áo - New3
+4582;4255;Đồ bơi - New3
+4583;4255;Giày dép - New3
+4584;4255;Mũ phụ kiện - New3
+4585;4256;Thực phẩm chức năng mẹ bầu - New3
+4586;4256;Đồ uống mẹ bầu - New3
+4587;4256;Chăm sóc da cơ thể - New3
+4588;4256;Thấm sữa - New3
+4589;4256;Đồ cho mẹ bầu khác - New3
+4590;4257;Đồ chơi nhập vai - New3
+4591;4257;Ô tô xe điện - New3
+4592;4257;Trò chơi trí tuệ xếp hình - New3
+4593;4257;Đồ chơi có hình character - New3
+4594;4257;Trò chơi ngoài trời - New3
+4595;4257;Chơi dưới nước bồn tắm - New3
+4596;4257;Đồ chơi khác - New3
+4597;4258;Màu vẽ - New3
+4598;4258;Kéo origami - New3
+4599;4258;Đất nặn - New3
+4600;4258;Cặp chống gù - New3
+4601;4258;VPP cho bé khác - New3
+4602;4259;Địu - New3
+4603;4259;Xe đẩy - New3
+4604;4259;Ghế cho bé - New3
+4605;4259;Đồ cho bé khác - New3
+4606;4260;Icreo - New3
+4607;4260;Meiji - New3
+4608;4260;Morinaga - New3
+4609;4260;Wakodo - New3
+4610;4260;Snowbaby - New3
+4611;4260;Sữa bột khác - New3
+4612;4261;Merries - New3
+4613;4261;Goon - New3
+4614;4261;Moony - New3
+4615;4261;Genki - New3
+4616;4261;Pamper - New3
+4617;4261;Bỉm khác - New3
+4618;4262;Akachan - New3
+4619;4262;Goon - New3
+4620;4262;Pegion - New3
+4621;4262;Merries - New3
+4622;4262;Moony - New3
+4623;4262;Wakodo - New3
+4624;4262;LEC - New3
+4625;4262;Giấy ướt khác - New3
+4626;4263;Bút chì - New3
+4627;4263;Bút chì kim - New3
+4628;4263;Bút bi - New3
+4629;4263;Bút đánh dấu - New3
+4630;4263;Bút máy - New3
+4631;4263;Tẩy - New3
+4632;4263;Bút xóa - New3
+4633;4263;Bút lông - New3
+4634;4263;Bút khác - New3
+4635;4264;Kéo - New3
+4636;4264;Dao rọc giấy - New3
+4637;4264;Băng dính - New3
+4638;4264;Giấy note - New3
+4639;4264;Dây buộc đồ - New3
+4640;4264;Đinh gim bảng - New3
+4641;4264;Kẹp  - New3
+4642;4264;Ghim - New3
+4643;4264;Keo - New3
+4644;4264;Nam châm - New3
+4645;4264;Khác - New3
+4646;4265;Kẹp file - New3
+4647;4265;Ngăn chứa tài liệu - New3
+4648;4265;Kẹp tài liệu - New3
+4649;4265;Tập trình kí - New3
+4650;4265;Tập trình kí đơn - New3
+4651;4265;Khác - New3
+4652;4266;Sổ tay - New3
+4653;4266;Note - New3
+4654;4266;Card - New3
+4655;4266;Giấy viết thư - New3
+4656;4266;Phong bì - New3
+4657;4266;Túi giấy túi đựng tài liêu - New3
+4658;4266;Giấy trắng - New3
+4659;4266;Khác - New3
+4660;4267;Album - New3
+4661;4267;Thiệp  - New3
+4662;4267;Giấy bọc - New3
+4663;4267;Khác - New3
+4664;4268;Phục vụ vẽ tranh - New3
+4665;4268;Phục vụ thư pháp - New3
+4666;4268;Điêu khắc - New3
+4667;4268;Bảng tính - New3
+4668;4268;Gọt bút chì - New3
+4669;4268;Hộp bút - New3
+4670;4268;Thước kẻ compa - New3
+4671;4268;Tài liệu - New3
+4672;4268;Bản đồ - New3
+4673;4268;Sản phẩm quang học - New3
+4674;4268;Sách - New3
+4675;4268;Khác - New3
+4676;4269;Máy tính - New3
+4677;4269;Khác - New3
+4678;4270;VPP khác - New3
+4679;4271;Kem đánh răng - New3
+4680;4271;Bàn chải đánh răng - New3
+4681;4271;Khử mùi răng miệng - New3
+4682;4271;Dụng cụ nha khoa - New3
+4683;4271;Vệ sinh răng miệng khác - New3
+4684;4272;Tăm bông gạc - New3
+4685;4272;Băng y tế - New3
+4686;4272;Bảo vệ đầu gối khủy tay - New3
+4687;4272;Khẩu trang - New3
+4688;4272;Tránh thai - New3
+4689;4272;Chăm sóc tai mũi mắt - New3
+4690;4272;Chăm sóc chân - New3
+4691;4272;Chăm sóc cổ lưng - New3
+4692;4272;Miếng dán ấm dùng 1 lần (Kairo) - New3
+4693;4272;Hạ nhiệt - New3
+4694;4272;Chăm sóc sức khỏe khác - New3
+4695;4273;Collagen - New3
+4696;4273;Giảm mỡ - New3
+4697;4273;Làm đẹp da - New3
+4698;4273;Hỗ trợ tiêu hoá - New3
+4699;4273;Bổ sung canxi - New3
+4700;4273;Chống lão hóa - New3
+4701;4273;Bổ sung vitamin - New3
+4702;4273;Bổ sung DHA - New3
+4703;4273;Bổ sung Glucosamin - New3
+4704;4273;Tảo - New3
+4705;4273;Ổn định huyết áp - New3
+4706;4273;TPCN khác - New3
+4707;4274;Chăm sóc sức khỏe khác - New3
+4708;4275;Thời trang hè  - New3
+4709;4275;Thời trang đông - New3
+4710;4275;Uniqlo khác - New3
+4711;4276;Thời trang hè  - New3
+4712;4276;Thời trang đông - New3
+4713;4276;IZUN khác - New3
+4714;4277;Áo lót nữ - New3
+4715;4277;Quần lót nữ - New3
+4716;4277;Đồ lót thể thao - New3
+4717;4277;Đồ lót trẻ em - New3
+4718;4278;Tất mùa hè - New3
+4719;4278;Tất mùa đông - New3
+4720;4278;GUNZE khác - New3
+4721;4278;Tất nữ - New3
+4722;4279;Tất nữ - New3
+4723;4280;Kính chống nắng - New3
+4724;4280;Mũ - New3
+4725;4280;Găng tay chống nắng - New3
+4726;4280;Khẩu trang chống nắng - New3
+4727;4280;Áo chống nắng - New3
+4728;4280;Tất nam - New3
+4729;4280;Tất nữ - New3
+4730;4280;Tất trẻ em - New3
+4731;4280;Phụ kiện khác - New3
+4732;4281;Hàng thời trang khác - New3
+4733;4281;Quần áo trẻ em - New3
+4734;4281;Quần áo phụ nữ - New3
+4735;4281;Quần áo nam giới - New3
+4736;4281;Quần áo bơi - New3
+4737;4281;Mũ bơi kính bơi - New3
+4738;4281;Phao bơi - New3
+4739;4282;Hàng khác chưa phân loại - New3
+4740;4282;Hàng Hotel - New3
+4741;4283;Hàng ngừng kinh doanh - New3
+4759;1;Hien Test
