@@ -1,0 +1,24 @@
+SELECT product_id, product.name_template, SUM((price_unit - amount_promotion) * qty) as revenue
+FROM sale_orderline
+JOIN sale_order ON sale_orderline.order_id = sale_order.id
+JOIN product ON sale_orderline.product_id = product.id
+WHERE date_order BETWEEN '2017-11-01' and '2017-12-01'
+GROUP BY sale_orderline.product_id
+ORDER BY revenue DESC
+LIMIT 0, 10
+
+SELECT product_id, category.name, product.name_template, SUM((price_unit - amount_promotion) * qty) as revenue
+FROM sale_orderline
+JOIN sale_order ON sale_orderline.order_id = sale_order.id
+JOIN product ON sale_orderline.product_id = product.id
+JOIN category ON product.categ_id = category.id
+WHERE date_order BETWEEN '2017-11-01' and '2017-12-01'
+GROUP BY sale_orderline.product_id
+ORDER BY revenue DESC
+LIMIT 0, 10
+
+SELECT date(sale_order.date_order) ,SUM((price_unit - amount_promotion) * qty) as revenue
+FROM sale_orderline
+JOIN sale_order ON sale_orderline.order_id = sale_order.id
+WHERE date_order BETWEEN '2017-11-01' and '2017-12-01'
+GROUP BY date(date_order)
