@@ -1,0 +1,13 @@
+{% comment %} <form method="POST">
+ {% csrf_token %}
+ To: <input name="to_email" value="{{form.to_email.value|default:''}}"> {{ form.to_email.errors }} <br>
+ Subject: <input name="subject" value="{{form.subject.value|default:''}}"> {{ form.subject.errors }} <br>
+ Content: <textarea name="content" cols="20" rows="5">{{form.content.value|default:''}}</textarea><br>
+ <button type="submit">Send</button>
+</form> {% endcomment %}
+
+<form method="POST" novalidate>
+    {% csrf_token %}
+    {{form.as_p}}
+    <button type="submit">Send</button>
+</form>

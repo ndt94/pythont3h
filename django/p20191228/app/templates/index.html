@@ -1,0 +1,8 @@
+{% for st in students %}
+    <span>{{st.studentNo}}</span> 
+    <span>{{st.name}}</span>
+    <span>{{st.address}}</span>
+    <a href="{% url 'update-student' st.id %}">Update</a> <br>
+{% endfor %}
+
+<a href="{% url 'student-create' %}">Add Student</a>

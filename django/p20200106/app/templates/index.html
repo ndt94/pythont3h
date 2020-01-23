@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block navbar %}
+    {% with page=1 %}
+        {{ block.super }}
+    {% endwith %}
+{% endblock %}
+
+{% block content %}
+    <p>Hello world</p>
+{% endblock  %}

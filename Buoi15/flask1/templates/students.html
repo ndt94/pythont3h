@@ -1,0 +1,17 @@
+<!-- {% for st in students %}
+{{st.name}}<br>
+{% endfor %} -->
+
+<table border="1">
+    <tr>
+        <th>No.</th>
+        <th>Name</th>
+    </tr>
+
+    {% for st in students %}
+    <tr>
+        <td>{{st.id}}</td>
+        <td>{{st.name}}</td>
+    </tr>
+    {% endfor %}
+</table>

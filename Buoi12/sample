@@ -1,0 +1,17 @@
+SELECT stock_warehouse.name,SUM(price_unit*qty - amount_promotion)
+FROM sale_orderline 
+JOIN sale_order ON sale_order.id=sale_orderline.order_id 
+JOIN stock_warehouse ON stock_warehouse.lot_stock_id=sale_order.location_id 
+WHERE date_order BETWEEN '2017-11-01' AND '2017-12-01' 
+GROUP BY stock_warehouse.id
+
+select * from sale_orderline 
+JOIN sale_order on sale_order.id=sale_orderline.order_id
+where sale_orderline.id=1901917;
+
+select * from promotion_amount
+join sale_promotion on sale_promotion.id=promotion_amount.promotion_id
+where promotion_amount.product_id=17825
+and sale_promotion.start_date<='2017-11-26'
+and sale_promotion.end_date>='2017-11-26';
+

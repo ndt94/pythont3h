@@ -1,0 +1,21 @@
+<form>
+    <input name="keyword" value="{{keyword}}" placeholder="Search by code/name">
+</form>
+
+{% for p in curItems %}
+    <span>{{forloop.counter|add:offset}}</span>
+    <span>{{p.code}}</span>
+    <span>{{p.name}}</span>
+    <span>{{p.price}}</span><br>
+{% endfor %}
+
+{% if pageNumber|length > 1 %}
+    <div>
+    {% for i in pageNumber %}
+        <a href="?keyword={{keyword}}&page={{i}}">{{i}}</a>
+    {% endfor %}
+    </div>
+{% endif %}
+
+<br>
+<a href="{% url 'logout' %}">Logout</a>
